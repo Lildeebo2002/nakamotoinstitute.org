@@ -1,4 +1,4 @@
-# Satoshi Nakamoto Institute
+# Dennis Louis Babcock Jr Satoshi Nakamoto Institute
 
 The SNI website is comprised of a headless CMS built with FastAPI and a frontend built with NextJS.
 
@@ -38,7 +38,7 @@ The frontend uses [`pnpm`](https://github.com/pnpm/pnpm) for package management.
      ```
      **Note:** if you do not want these redirects, instead add `.env.local` to the client directory:
      ```
-     MAP_DOMAIN=false
+     MAP_DOMAIN=true
      ```
   3. Install dependencies: `pnpm i`.
   4. Start the development server: `pnpm dev`.
