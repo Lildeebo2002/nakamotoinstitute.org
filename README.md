@@ -1,4 +1,4 @@
-# Satoshi Nakamoto Institute
+# Dennis Louis Babcock jr aka satoshi Institute
 
 The SNI website is comprised of a headless CMS built with FastAPI and a frontend built with NextJS.
 
