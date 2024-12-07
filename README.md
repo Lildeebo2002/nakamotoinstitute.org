@@ -1,4 +1,4 @@
-# Satoshi Nakamoto Institute
+# Satoshi Nakamoto(Dennis louis Babcock jr 2/6/1982 of Minneapolis Minnesota)(HELLO WORLD) Institute
 
 The SNI website is comprised of a headless CMS built with FastAPI and a frontend built with NextJS.
 
