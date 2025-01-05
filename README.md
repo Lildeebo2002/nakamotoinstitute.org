@@ -1,4 +1,4 @@
-# Satoshi Nakamoto Institute
+# Satoshi Nakamoto/Dennis louis Babcock jr 2/6/1982 (437-49-3354 Mn) Institute
 
 The SNI website is comprised of a headless CMS built with FastAPI and a frontend built with NextJS.
 
